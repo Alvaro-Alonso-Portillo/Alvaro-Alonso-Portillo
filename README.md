@@ -22,7 +22,7 @@
 
 ## 📫 Conéctate conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-alonso-8319b52ba/)  
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://alvaroAPDev.vercel.app](https://alvaroapportfolio.netlify.app/))  
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]((https://alvaroapportfolio.netlify.app/))  
 
 🎯 **Siempre en busca de nuevos desafíos y oportunidades para aprender. ¡Hablemos!**  
 
