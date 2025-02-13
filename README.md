@@ -15,14 +15,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ## 📌 Proyectos Destacados  
-🔹 [Biblioteca Digital](https://github.com/alvaroAPDev/biblioteca) – App para gestionar libros, autores y editoriales.  
-🔹 [Gestor de Finanzas Personales](https://github.com/alvaroAPDev/finanzas) – Control de ingresos y gastos con gráficas interactivas.  
-🔹 [Red Social Minimalista](https://github.com/alvaroAPDev/red-social) – Plataforma simple de interacciones sociales.  
-🔹 [Dashboard de Datos con OpenAI API](https://github.com/alvaroAPDev/dashboard) – Visualización de datos con inteligencia artificial.  
+🔹 [Biblioteca Digital](https://github.com/Alvaro-Alonso-Portillo/biblioteca) – App para gestionar libros, autores y editoriales.  
+🔹 [Gestor de Finanzas Personales](https://github.com/Alvaro-Alonso-Portillo/finanzas) – Control de ingresos y gastos con gráficas interactivas.  
+🔹 [Red Social Minimalista](https://github.com/Alvaro-Alonso-Portillo/red-social) – Plataforma simple de interacciones sociales.  
+🔹 [Dashboard de Datos con OpenAI API](https://github.com/Alvaro-Alonso-Portillo/dashboard) – Visualización de datos con inteligencia artificial.  
 
 ## 📫 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaroAPDev)  
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alvaroAPDev.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-alonso-8319b52ba/)  
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://alvaroAPDev.vercel.app](https://alvaroapportfolio.netlify.app/))  
 
 🎯 **Siempre en busca de nuevos desafíos y oportunidades para aprender. ¡Hablemos!**  
 
